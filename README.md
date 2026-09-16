@@ -85,6 +85,7 @@ A **connectome** records neurons and their connections. A simulation adds assump
 - [Fruitless](https://github.com/nicodunks/fruitless) by **nicodunks** - MaleCNS intervention study and Three.js visualization testing how blocking modeled mAL output changes activity in courtship-related candidate neurons.
 - [Fruit Fly Fashion](https://github.com/jtc268/fruit-fly-fashion) by **jtc268** - Reproducible art experiment using MaleCNS spike vectors to control the placement, rotation, and scale of print designs.
 - [mindmeld-with-fly](https://github.com/Decentricity/mindmeld-with-fly) by **Decentricity** - Sparse MaleCNS reservoir experiments with terminal rendering and recording/replay. **Prototype:** the README places the EEG interface in a future phase.
+- [boltzmann-fly](https://github.com/jniimi/boltzmann-fly) by **jniimi** - Energy-based world model of simulated consumer behaviour (the author's own Purchase World model, ICONIP 2026) re-trained as a Boltzmann machine whose couplings are masked to an extracted MaleCNS circuit: the right-hemisphere mushroom body (PN -> Kenyon cell -> MBON). Ships the original dense model as an anchor, degree-preserving and Erdős–Rényi rewiring controls, CPU-reproducible weights, and a results note. **Research prototype:** the fly wiring matches the original on prediction and on one counterfactual parameter, is below it on the other, and flips the sign of the free-energy clamp test (one seed).
 
 ## Brain models and embodied simulation
 
