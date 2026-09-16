@@ -103,7 +103,8 @@ A **connectome** records neurons and their connections. A simulation adds assump
 - [MaleCNS on Apple MPS](https://github.com/seohyunjun/mps-malecns-model) by **seohyunjun** - Experimental PyTorch MPS simulator for Apple Silicon with verified data preparation, named-cell stimulation, and 3D activity reports.
 - [AxonWeave](https://github.com/dhakalnirajan/axonweave) by **dhakalnirajan** - Python library exposing MaleCNS as a sparse, trainable substrate for NumPy, PyTorch, and TensorFlow while keeping source topology and modeling policies explicit.
 - [Embodied fly-brain](https://github.com/erojasoficial-byte/fly-brain) by **erojasoficial-byte** - Community research repository combining a FlyWire spiking model with NeuroMechFly/MuJoCo, sensory experiments, and an accompanying preprint.
-
+- [Wired Different](https://github.com/dhruvin-sarkar/ConnectomeLens) by **dhruvin-sarkar** - classifier predicting sexually dimorphic cell types from male CNS connectome (male-cns v1.0) wiring, validated against degree-preserving null graphs; static demo with atlas, pathfinder and guessing game.
+  
 ## Datasets and official resources
 
 - [MaleCNS](https://male-cns.janelia.org/) - Official male CNS project, cell-type exploration, release history, and [downloads](https://male-cns.janelia.org/download/). Collaboration between FlyEM/HHMI Janelia, Cambridge, MRC LMB, and Google Research.
