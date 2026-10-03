@@ -117,6 +117,8 @@ A **connectome** records neurons and their connections. A simulation adds assump
 - [AxonWeave](https://github.com/dhakalnirajan/axonweave) by **dhakalnirajan** - Python library exposing MaleCNS as a sparse, trainable substrate for NumPy, PyTorch, and TensorFlow while keeping source topology and modeling policies explicit.
 - [Embodied fly-brain](https://github.com/erojasoficial-byte/fly-brain) by **erojasoficial-byte** - Community research repository combining a FlyWire spiking model with NeuroMechFly/MuJoCo, sensory experiments, and an accompanying preprint.
 - [Wired Different](https://github.com/dhruvin-sarkar/ConnectomeLens) by **dhruvin-sarkar** - classifier predicting sexually dimorphic cell types from male CNS connectome (male-cns v1.0) wiring, validated against degree-preserving null graphs; static demo with atlas, pathfinder and guessing game.
+- [fault-lines](https://github.com/dhruvin-sarkar/fault-lines) by **dhruvin-sarkar** - Attack tolerance and structural robustness of the complete Drosophila male CNS connectome derived from the fruit fly research published by google
+- [price-of-thought](https://github.com/dhruvin-sarkar/price-of-thought) by **dhruvin-sarkar** - Wiring cost and the brain-nerve cord connective in the complete Drosophila male CNS connectome derived from the fruit fly research published by google
 
 ## Datasets and official resources
 
