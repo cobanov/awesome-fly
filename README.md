@@ -143,6 +143,7 @@ Follow each upstream dataset's citation and licensing requirements. The license 
 
 ## Analysis libraries and viewers
 
+- [NeuroMaps](https://neuromaps.app/) by **Aware**. Comparative Connectomics Data Explorer and Tools.
 - [Codex](https://github.com/murthylab/codex) by **Murthy Lab** - Source for the FlyWire Connectome Data Explorer. [Explore neurons](https://codex.flywire.ai/).
 - [FlyBrainLab](https://github.com/FlyBrainLab/FlyBrainLab) - Interactive platform for exploring fly brain data, constructing executable circuits, and studying their modeled function.
 - [EOScircuits](https://github.com/FlyBrainLab/EOScircuits) by **FlyBrainLab** - Executable models of the Drosophila antenna, antennal lobe, and mushroom body for early olfactory-system experiments.
